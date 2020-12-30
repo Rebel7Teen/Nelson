@@ -37,7 +37,7 @@ h2 {font-family: 'Roboto', sans-serif;font-size:2rem;font-weight:700;text-transf
     /*Do not need button navigation*/
     @supports (scroll-snap-type) {.slider > a {display:none;}}
     
-    body {display:flex;align-items:center;justify-content:center;background:linear-gradient(to bottom, #74abe2, #5563DE);font-family:'Roboto', sans-serif;}
+    /*body {display:flex;align-items:center;justify-content:center;background:linear-gradient(to bottom, #74abe2, #5563DE);font-family:'Roboto', sans-serif;}*/
 
     
 
