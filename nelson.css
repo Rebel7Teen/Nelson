@@ -10,8 +10,9 @@
     .hero {width:100%;height:750px;position:relative;top:0px;background-image:url("https://atu1624.ca/wp-content/uploads/2015/11/placeholder-350x220.gif");background-position:center;background-repeat:no-repeat;background-size: cover;}
         .logo {position:relative;top:5%;left:75%;width:100px;height:auto;}
 
-.nav ul {list-style-type:none;margin:0;padding:0;overflow:hidden;}
-.nav li {float:left;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:700;text-transform: uppercase; }
+.nav {position:relative;top:0px;left:10%;}    
+    .nav ul {list-style-type:none;margin:0;padding:0;overflow:hidden;}
+    .nav li {float:left;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:700;text-transform: uppercase; }
 
 .get_a_quote {width:100%;height:600px;background-color:cornsilk;}
 .what_we_do {width:100%;height:600px;background-color:powderblue;}
