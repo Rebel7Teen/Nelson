@@ -8,5 +8,6 @@
     .social_btns li {width:25px;height:25px;padding:5px;}
 .hero_wrapper {height:600px;margin:0;}
     .hero {height:100%;background-image:url("https://atu1624.ca/wp-content/uploads/2015/11/placeholder-350x220.gif");background-position:center;background-repeat:no-repeat;background-size: cover;}
-#logo {position:relative;top:50px;left:750px;width:80px;height:auto;}
+        .logo {position:relative;top:50px;left:1600px;width:100px;height:auto;}
 .get_a_quote {width:100%;height:600px;background-color:cornsilk;}
+.what_we_do {width:100%;height:600px;background-color:powderblue;}
