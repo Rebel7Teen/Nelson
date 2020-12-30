@@ -12,8 +12,8 @@
 
 .nav {position:relative;top:5%;left:10%;}    
     .nav ul {list-style-type:none;margin-:0;padding:0;overflow:hidden;}
-    .nav li {float:left;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:700;text-transform: uppercase;pading-left:20px;color:white; }
+    .nav li {float:left;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:700;text-transform: uppercase;padding-left:20px;color:white; }
 
-.get_a_quote {width:100%;height:600px;background-color:cornsilk;}
+.get_a_quote {position:relative;top:0px;width:100%;height:600px;background-color:cornsilk;}
 .what_we_do {width:100%;height:600px;background-color:powderblue;}
 .footer {width:100%;height:325px;background-color: rebeccapurple;}
