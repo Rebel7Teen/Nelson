@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 /* Global CSS */
-h1 {font-family: 'Roboto', sans-serif;font-size:3rem;font-weight:700;text-transform:uppercase;padding:10px;color:black;}
+h1 {font-family: 'Roboto', sans-serif;font-size:3rem;font-weight:700;text-transform:uppercase;padding:10px;color:black;margin:0;}
 
 .main_wrapper {width:100%;margin: 0px auto;}
 .top_bar {width:100%;height:100px;background-color: gray;}
@@ -9,14 +9,14 @@ h1 {font-family: 'Roboto', sans-serif;font-size:3rem;font-weight:700;text-transf
     .social_btns ul {margin:0;list-style:none;}
     .social_btns li {width:25px;height:25px;padding:5px;}
 .hero_wrapper {height:600px;margin:0;}
-    .hero {width:100%;height:750px;position:relative;top:0px;background-image:url("https://atu1624.ca/wp-content/uploads/2015/11/placeholder-350x220.gif");background-position:center;background-repeat:no-repeat;background-size: cover;}
+    .hero {width:100%;height:600px;position:relative;top:0px;background-image:url("https://atu1624.ca/wp-content/uploads/2015/11/placeholder-350x220.gif");background-position:center;background-repeat:no-repeat;background-size: cover;}
         .logo {position:relative;top:5%;left:75%;width:100px;height:auto;}
 
 .nav {position:relative;top:5%;left:10%;}    
     .nav ul {list-style-type:none;margin-:0;padding:0;overflow:hidden;}
     .nav li {float:left;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:700;text-transform: uppercase;padding-left:20px;color:white; }
 
-.get_a_quote {position:relative;top:0px;width:100%;height:600px;background-color:cornsilk;}
+.get_a_quote {position:relative;top:0px;width:100%;height:600px;background-color:cornsilk;margin:0;}
     .quote_form {position:relative;left:40%;top:10%;font-family: 'Roboto', sans-serif;font-size:1.5rem;font-weight:400;}
-.what_we_do {width:100%;height:600px;background-color:powderblue;}
-.footer {width:100%;height:325px;background-color: rebeccapurple;}
+.what_we_do {width:100%;height:600px;background-color:powderblue;margin:0;}
+.footer {width:100%;height:325px;background-color: rebeccapurple;margin:0;}
