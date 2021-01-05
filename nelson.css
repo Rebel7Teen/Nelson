@@ -44,6 +44,6 @@ a:active {color:#000000;text-decoration:none;}
     
     /*body {display:flex;align-items:center;justify-content:center;background:linear-gradient(to bottom, #74abe2, #5563DE);font-family:'Roboto', sans-serif;}*/
 
-.middle {width:100%;height:500px;background-color:greenyellow;}   
+.middle {width:100%;height:500px;background-color:greenyellow;margin:0;}   
 
 .footer {width:100%;height:325px;background-color: rebeccapurple;margin:0;}
